@@ -1,0 +1,16 @@
+GET http://localhost:3333/getusers 
+
+###
+POST http://localhost:9000/user
+Content-Type: application/json 
+ { 
+	  
+      "name": "Aim Hemã de assis",
+      "email": "Aim",
+      "password": "*****" 
+
+
+
+      
+ }
+
